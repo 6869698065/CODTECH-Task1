@@ -11,7 +11,7 @@ The Objective of this project focuses on designing, implementing, and simulating
 ### Key Activities                                                                                                                                                                                                                                                                                                                      
 -**Design Digital Logic Circuits**: Implement basic digital logic components (logic gates, adders, multiplexers) in Verilog.                                          
 -**Simulation and Verification**: Simulate the Verilog designs to ensure they function correctly.                                                                     
-**.Waveform Analysis**: Use the waveform viewer to analyze simulation results and verify expected behavior.                                                                  
+-**Waveform Analysis**: Use the waveform viewer to analyze simulation results and verify expected behavior.                                                                  
 ### Technologies Used                                                                                                                                                                                                                                                                                                                   
 -**Verilog**: The Primary Programming Language for Digital Logic Design.                                                                                            
 -**ModelSim**: For simulation and analysis of Verilog designs.  
