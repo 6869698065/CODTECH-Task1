@@ -18,20 +18,20 @@ The Objective of this project focuses on designing, implementing, and simulating
 
 ### Key Insight                                                                                                                                                          
 Digital Logic Circuits                                                                                                                                                                                                            
-**Logic Gates**:                                                                                                                                                                                                     !(C:\Users\Dell\Pictures\Screenshots\Screenshot 2024-06-28 195347.png)             
-AND Gate
-OR Gate
-NOT Gate
-NAND Gate
-NOR Gate
-XOR Gate
-XNOR Gate
+**Logic Gates**:                                                                                                                                                                                                                  
+AND Gate,
+OR Gate,
+NOT Gate,
+NAND Gate,
+NOR Gate,
+XOR Gate &
+XNOR Gate.                                                                                                                                                                                                                
 **Adders**:
-Half Adder
-Full Adder
-Full Adder using Half Adder
-Ripple Carry Adder
+Half Adder,
+Full Adder,
+Full Adder using Half Adder &
+Ripple Carry Adder.                                                                                                                                                                                                                    
 **Multiplexers**:
-2:1 Multiplexer
-4:1 Multiplexer
+2:1 Multiplexer &
+4:1 Multiplexer.
 
