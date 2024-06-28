@@ -14,4 +14,24 @@ The Objective of this project focuses on designing, implementing, and simulating
 -**Waveform Analysis**: Use the waveform viewer to analyze simulation results and verify expected behavior.                                                                  
 ### Technologies Used                                                                                                                                                                                                                                                                                                                   
 -**Verilog**: The Primary Programming Language for Digital Logic Design.                                                                                            
--**ModelSim**: For simulation and analysis of Verilog designs.  
+-**ModelSim**: For simulation and analysis of Verilog designs. 
+
+### Key Insight                                                                                                                                                          
+Digital Logic Circuits
+**Logic Gates**:
+AND Gate
+OR Gate
+NOT Gate
+NAND Gate
+NOR Gate
+XOR Gate
+XNOR Gate
+**Adders**:
+Half Adder
+Full Adder
+Full Adder using Half Adder
+Ripple Carry Adder
+**Multiplexers**:
+2:1 Multiplexer
+4:1 Multiplexer
+
