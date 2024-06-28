@@ -35,6 +35,6 @@ Ripple Carry Adder.
 4:1 Multiplexer.                                                                                                                                                                                                                                                                                                                                                                                                                                 
 **Expected Outcomes**                                                                                                                                                                                                
 -Successfully designed and implemented basic digital logic circuits in Verilog.                                                                                                                                      
--Verified the functionality of each circuit through simulation and waveform analysis.
+-Verified the functionality of each circuit through simulation and waveform analysis.                                                                                                                                
 -Gained practical experience in digital circuit design and simulation using VLSI software.
--Developed skills in using Verilog HDL and analyzing simulation results with waveform viewers.
+-Developed skills in using Verilog HDL and analyzing simulation results with waveform viewers.                    
