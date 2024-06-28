@@ -32,9 +32,8 @@ Full Adder using Half Adder &
 Ripple Carry Adder.                                                                                                                                                                                                                    
 **Multiplexers**:
 2:1 Multiplexer &
-4:1 Multiplexer.                                                                                                                                                                                                       
+4:1 Multiplexer.                                                                                                                                                                                                                                                                                                                                                                                                                                 
 **Expected Outcomes**
-
 -Successfully designed and implemented basic digital logic circuits in Verilog.
 -Verified the functionality of each circuit through simulation and waveform analysis.
 -Gained practical experience in digital circuit design and simulation using VLSI software.
