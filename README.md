@@ -18,7 +18,7 @@ The Objective of this project focuses on designing, implementing, and simulating
 
 ### Key Insight                                                                                                                                                          
 Digital Logic Circuits                                                                                                                                                                                                            
-**Logic Gates**:                                                                                                                                                                                                     ![ .](C:\Users\Dell\Pictures\Screenshots\Screenshot 2024-06-28 195347.png)             
+**Logic Gates**:                                                                                                                                                                                                     !(C:\Users\Dell\Pictures\Screenshots\Screenshot 2024-06-28 195347.png)             
 AND Gate
 OR Gate
 NOT Gate
