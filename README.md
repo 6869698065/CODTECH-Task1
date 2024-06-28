@@ -17,8 +17,8 @@ The Objective of this project focuses on designing, implementing, and simulating
 -**ModelSim**: For simulation and analysis of Verilog designs. 
 
 ### Key Insight                                                                                                                                                          
-Digital Logic Circuits
-**Logic Gates**:
+Digital Logic Circuits                                                                                                                                                                                                            
+**Logic Gates**:                                                                                                                                                                                                     ![ ] (C:\Users\Dell\Pictures\Screenshots\Screenshot 2024-06-28 195347.png)             
 AND Gate
 OR Gate
 NOT Gate
