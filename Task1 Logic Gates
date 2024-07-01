@@ -1,4 +1,4 @@
-1//logic gates//
+//logic gates//
 module basicgate(a,b,c);
 input a;
 input b;
@@ -35,7 +35,7 @@ end
 endmodule
 
 
-2//half adder//
+//half adder//
 module half_adder(a,b,sum,carry);
 input a,b;
 output sum,carry;
